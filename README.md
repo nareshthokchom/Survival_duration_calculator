@@ -18,13 +18,13 @@ This project is a simple Python application that calculates how long a person ha
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/age-duration-calculator.git
-    cd age-duration-calculator
+    git clone https://github.com/nareshthokchom/Survival_duration_calculator.git
+    cd Survival-duration-calculator
     ```
 
 2. Run the Age Duration Calculator:
     ```bash
-    python age_duration_calculator.py
+    python Survival_duration_calculator.py
     ```
 
 ## Usage
